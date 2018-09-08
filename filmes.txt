@@ -10,8 +10,4 @@
 "Se não for para fazer correto, pense duas vezes antes de fazê-lo"
 "O protetor 2"
 "Blade"
-<<<<<<< HEAD
 "Outra Citação"
-=======
-
->>>>>>> 4072afd2adc85c241b401ce76537b152e0f020cf
