@@ -1,3 +1,3 @@
 ## citacoes
-Repositorio para testes de aprendizagem do git
-Segunda Alteração no arquivo
+Repositorio para testes de aprendizagem do git  
+Inclusão de linha para teste
