@@ -1,2 +1,1 @@
 Novas features do modulo de cadastramento de produtos
-Criado o CRUD do modulo de produtos
